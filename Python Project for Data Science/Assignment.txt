@@ -1,0 +1,3 @@
+Extracting Stock Data Using a Python Library
+Extracting Stock Data Using Web Scraping
+Hands-on Lab: Analyzing Historical Stock/Revenue Data and Building a Dashboard
